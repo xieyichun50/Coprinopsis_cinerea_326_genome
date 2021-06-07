@@ -1,0 +1,1 @@
+# Coprinopsis_cinerea_326_genome
