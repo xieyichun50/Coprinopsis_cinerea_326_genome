@@ -1,8 +1,11 @@
+################
+##Summarizing SV calling from sniffles
+################
 library("tidyr", lib.loc="/usr/local/lib/R/site-library")
 library("ggplot2", lib.loc="/usr/local/lib/R/site-library")
 
 ####Import sniffle result
-sniffle_result<-read.delim(file = "/home/yichun/kairuku/cc326_Hybrid_assembly/SV/cc326_ont_cc130.simple.vcf", header = TRUE)
+sniffle_result<-read.delim(file = "cc326_ont_cc130.simple.vcf", header = TRUE)
 
 ####split INFO column
 sniffle_result_clean <- sniffle_result
