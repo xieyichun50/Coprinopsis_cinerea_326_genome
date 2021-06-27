@@ -1,7 +1,7 @@
 # Coprinopsis_cinerea_326_genome
 
 Genome annoation of Coprinopsis cinerea A43mut B43mut pab1-1 #326 and protocols for fungal DNA sequencing using Oxford Nanopore MinION platform.
-
+Genome resources in GenBank format https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/016/772/295/GCA_016772295.1_ASM1677229v1/
 
 
 Please cite
